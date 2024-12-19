@@ -7255,6 +7255,6 @@
         "optOut": "a#no_consent",
         "optIn": "a#consent_prompt_submit"
       }
-    }    
+    }
   ]
 }
